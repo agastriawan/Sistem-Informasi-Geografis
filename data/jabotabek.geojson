@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Jakarta",
+        "luas": 661.5,
+        "populasi": 10684.9,
+        "tahun": 2024,
+        "GDP": 211.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8456,
+          -6.2088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tangerang",
+        "luas": 164.5,
+        "populasi": 1927.82,
+        "tahun": 2024,
+        "GDP": 14.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6319,
+          -6.1783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Tangerang Selatan",
+        "luas": 147.19,
+        "populasi": 1429.52,
+        "tahun": 2024,
+        "GDP": 6.85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7179,
+          -6.2889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Depok",
+        "luas": 200.29,
+        "populasi": 2163.64,
+        "tahun": 2024,
+        "GDP": 5.75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7942,
+          -6.4025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bekasi",
+        "luas": 204.52,
+        "populasi": 2528.13,
+        "tahun": 2024,
+        "GDP": 7.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9756,
+          -6.2383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bogor",
+        "luas": 118.5,
+        "populasi": 1067.8,
+        "tahun": 2024,
+        "GDP": 3.74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7972,
+          -6.5971
+        ]
+      }
+    }
+  ]
+}
